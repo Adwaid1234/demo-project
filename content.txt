@@ -2,4 +2,7 @@ hi all this is a file for project
 
 this is a temporary file
 
+<<<<<<< HEAD
 updating in main branch
+=======
+>>>>>>> 78be7e8 (Create content.txt)
