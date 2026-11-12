@@ -4,9 +4,12 @@ this is a temporary file
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 updating in main branch
 =======
 >>>>>>> 78be7e8 (Create content.txt)
 =======
 updating in main branch
 >>>>>>> bcdbacf (udating in main branch)
+=======
+>>>>>>> 78be7e8 (Create content.txt)
